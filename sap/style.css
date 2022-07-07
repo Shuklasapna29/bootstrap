@@ -1,7 +1,5 @@
-@media(min-width: 768px){
-    .news-input {
-        width: 50%;
 
-    }
-
+.transparent {
+    background-color: rgba(12, 12, 12, 0.048);
+    padding: 50px;
 }
